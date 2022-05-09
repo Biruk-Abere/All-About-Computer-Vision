@@ -1,6 +1,6 @@
 # All-About-Computer-Vision
 This Repo contains all my notes for Computer vision from DeepLearning.AI , Stanford and Blog Posts 
-The Note consists:- 
+The Note consists :- 
     # The Architecture of Visual Cortex
     # Convolutional Neural Networks , Pooling Layers , Fully Connected Layers
     # Feature maps , multiple feature maps
